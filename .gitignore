@@ -1,0 +1,12 @@
+/node_modules
+.DS_Store
+Thumbs.db
+webui*_id_rsa
+*build_tag.yaml
+build/BUILD
+build/.env.local*
+.commit_*
+
+# Keys
+jwtRS256.key
+jwtRS256.key.pub

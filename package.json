@@ -1,0 +1,13 @@
+{
+  "name": "node-js-aoc-jwt-starter",
+  "version": "1.0.0",
+  "description": "Test app for creating a JWT token in NodeJS with Aspera on Cloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "David Bradshaw (IBM)",
+  "dependencies": {
+    "njwt": "^0.4.0"
+  }
+}
